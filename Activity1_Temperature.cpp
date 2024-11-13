@@ -16,7 +16,7 @@ int main ()
 		cout << "Bring a light jacket";
 	} 
 	else if (temperature > 50)  {
-		cout << "Donnot bring jacket at all";
+		cout << "Don not bring jacket at all";
 	} 
 	
 	return 0;
